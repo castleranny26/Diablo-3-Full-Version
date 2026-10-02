@@ -241,4 +241,4 @@ This repository serves as the official landing page for Diablo 3. The software i
 **Get the most recent version of Diablo 3 today!**
 
 ---
-**Last updated:** 2026-10-01 21:28:10 UTC
+**Last updated:** 2026-10-02 01:09:42 UTC
